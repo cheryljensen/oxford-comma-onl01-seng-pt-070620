@@ -1,6 +1,6 @@
 def oxford_comma(array)
  case array.length
- when
+ when 1
  end
  elsif
  else
